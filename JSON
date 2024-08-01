@@ -1,0 +1,95 @@
+{
+  "name": "Bhushan Sangle",
+  "contact": {
+    "phone": "+91-9011425556",
+    "email": ["bhushansangle1636@gmail.com", "bhushan.sangle21@vit.edu"],
+    "linkedin": "https://www.linkedin.com/in/bhushan-sangle-4157992ba/"
+  },
+  "education": [
+    {
+      "institution": "Vishwakarma Institute of Technology",
+      "degree": "Bachelor of Technology in Artificial Intelligence and Data Science",
+      "CGPA": 8.19,
+      "location": "Pune, Maharashtra",
+      "completion_date": "Dec 2023"
+    },
+    {
+      "institution": "Sharadchandra pawar Jr College",
+      "degree": "HSC",
+      "percentage": 88.86,
+      "location": "Jalna, Maharashtra",
+      "completion_date": "May 2021"
+    },
+    {
+      "institution": "Shri Sarang Swami Vidyalaya",
+      "degree": "SSC",
+      "CGPA": 92,
+      "location": "Parbhani, Maharashtra",
+      "completion_date": "May 2019"
+    }
+  ],
+  "technical_skills": {
+    "languages": ["Solidity", "Java", "SQL"],
+    "core_subjects": ["DSA", "DBMS", "OS", "OOP", "Software Design"],
+    "tools_and_technologies": ["VS Code", "PowerBI", "Google Colab", "GitHub", "NLP", "Business Analytics", "Data Visualization", "Data Analysis"]
+  },
+  "projects": [
+    {
+      "title": "Billing Management System",
+      "technologies": ["SQL", "Python"],
+      "details": [
+        "Developed a Python-based billing management system for supermarkets with QR code scanning capability using OpenCV.",
+        "Utilized SQL for efficient data management, ensuring accuracy and reliability.",
+        "Integrated dynamic discount calculation and inventory deduction functionalities."
+      ],
+      "date": "May 2023"
+    },
+    {
+      "title": "Zomato Data Analysis",
+      "technologies": ["Python"],
+      "details": [
+        "Conducted comprehensive data analysis using Pandas, Numpy, Matplotlib, and Seaborn.",
+        "Analyzed trends in restaurant services, identifying preferences for online delivery, popular restaurant types, and dining price ranges for couples.",
+        "Created visualizations including histograms, heatmaps, and boxplots."
+      ],
+      "date": "July 2024"
+    },
+    {
+      "title": "Emotion Based Music Recommendation System",
+      "technologies": ["Python", "CNN", "KNN", "Streamlit Cloud"],
+      "details": [
+        "Implemented a system to recommend songs based on mood using a model trained on the FER dataset.",
+        "Unified CNN for Facial Emotion Recognition and KNN algorithm for mood-based song recommendations.",
+        "Achieved 87.6% accuracy for the Facial Expression Recognition model."
+      ],
+      "date": "October 2023"
+    },
+    {
+      "title": "AI-Powered Traffic Enforcement Platform",
+      "technologies": ["YOLOv8", "Streamlit"],
+      "details": [
+        "Implemented YOLO v8 for license plate detection with a Streamlit interface for real-time detection.",
+        "Included verification of vehicle registration, Pollution Under Control (PUC) status, and detection of previous fines."
+      ],
+      "date": "March 2024"
+    }
+  ],
+  "publications": [
+    {
+      "conference": "EAI PerSoM 2023-EAI 2nd International Conference on Pervasive Knowledge and Collective Intelligence",
+      "title": "A web based personal finance management system",
+      "details": "Includes calculation, visualization, and prediction, and suggestions for expenses and savings."
+    },
+    {
+      "conference": "7th International Conference on Data Management, Analytics & Innovation",
+      "title": "A web based voting system using Blockchain",
+      "details": "A decentralized voting system using Ethereum blockchain, ensuring trust, eliminating intermediaries, enhancing voting efficiency, and reducing fraud risks."
+    }
+  ],
+  "achievements": [
+    {
+      "achievement": "Led a team of 4 members at National Level GenAI Hackathon - Logithon organized by Softlink Global.",
+      "details": "Achieved rank 4 among 565+ participating teams and worked on GenAI project involving Structured Data Generation from PDF."
+    }
+  ]
+}
